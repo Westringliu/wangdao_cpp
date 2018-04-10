@@ -1,0 +1,4 @@
+1520862884 INFO  : [testMylog.cc:test3:31]this is an info message
+1520862884 ERROR  : [testMylog.cc:test3:32]this is an info message
+1520862884 WARN  : [testMylog.cc:test3:33]this is an info message
+1520862884 DEBUG  : [testMylog.cc:test3:34]this is an info message
